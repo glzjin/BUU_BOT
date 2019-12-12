@@ -1,5 +1,5 @@
 itchatmp==0.0.17
-requests==2.18.4
+requests==2.20.0
 icalendar==3.11.6
 SQLObject==3.4.0
 qcloud_cos_py3==0.1.4
