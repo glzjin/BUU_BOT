@@ -1,0 +1,13 @@
+itchatmp==0.0.17
+requests==2.18.4
+icalendar==3.11.6
+SQLObject==3.4.0
+qcloud_cos_py3==0.1.4
+pytz==2017.2
+numpy==1.13.1
+redis==2.10.6
+pytesseract==0.1.7
+pycrypto==2.6.1
+Pillow==5.1.0
+PyPDF2==1.26.0
+python_dateutil==2.7.3
